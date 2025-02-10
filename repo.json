@@ -30,6 +30,29 @@
               ],
             "appPermissions": {}
         }
+        {
+            "name": "Monument Valley",
+            "bundleIdentifier": "com.ustwo.monumentvalley",
+            "developerName": "ustwo games",
+            "localizedDescription": "Monument Valley is a surreal exploration through fantastical architecture and impossible geometry. Guide the silent princess Ida through mysterious monuments, uncovering hidden paths, unfolding optical illusions and outsmarting the enigmatic Crow People.",
+            "iconURL": "https://raw.githubusercontent.com/spartanoah/spartanoah-trollapps/refs/heads/main/apps/Monuemnt-Valley/icon.png",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/spartanoah/spartanoah-trollapps/refs/heads/main/apps/Monument-Valley/screenshot1.png",
+                "https://raw.githubusercontent.com/spartanoah/spartanoah-trollapps/refs/heads/main/apps/Monument-Valley/screenshot2.png"
+            ],
+            "versions": [
+                {
+                  "version": "v3.3.202",
+                  "date": "2022-11-14",
+                  "localizedDescription": "Bug fixes and general improvements.",
+                  "downloadURL": "https://files.studyo.co/61db20d26e4b1300014afc6c/61db20d26e4b1300014afc6d/4875747b-644d-4d63-accd-28cc106891a0/Monument-Valley-v3.3.202.ipa",
+                  "size": 330301440,
+                  "minOSVersion": "6.0",
+                  "maxOSVersion": "18.0"
+                }
+              ],
+            "appPermissions": {}
+        }
     ],
     "news": []
   }
