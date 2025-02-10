@@ -6,7 +6,7 @@
     "headerURL": "https://raw.githubusercontent.com/spartanoah/spartanoah-trollapps/refs/heads/main/icon.png",
     "website": "https://spartanoah.github.io",
     "tintColor": "#F54F32",
-    "featuredApps": [],
+    "featuredApps": ["com.coffeestainstudios.goatsimulator"],
     "apps": [
         {
             "name": "Goat Simulator",
