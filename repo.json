@@ -1,0 +1,37 @@
+{
+    "name": "spartanoah's trollapps repo",
+    "subtitle": "personal collection",
+    "description": "nothing to see here",
+    "iconURL": "https://raw.githubusercontent.com/spartanoah/spartanoah-trollapps/refs/heads/main/icon.png",
+    "headerURL": "https://raw.githubusercontent.com/spartanoah/spartanoah-trollapps/refs/heads/main/icon.png",
+    "website": "https://spartanoah.github.io",
+    "tintColor": "#F54F32",
+    "featuredApps": [],
+    "apps": [
+        {
+            "name": "Goat Simulator",
+            "bundleIdentifier": "com.coffeestainstudios.goatsimulator",
+            "developerName": "coffeestainstudios",
+            "subtitle": "It's a goat!",
+            "localizedDescription": "Play as a goat in an accurate goat simulation!",
+            "iconURL": "https://raw.githubusercontent.com/spartanoah/spartanoah-trollapps/refs/heads/main/goatsimulator.png",
+            "tintColor": "#F54F32",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/spartanoah/spartanoah-trollapps/refs/heads/main/goatsimscreenshot.png"
+            ],
+            "versions": [
+                {
+                  "version": "v1.9.7",
+                  "date": "2017-02-16",
+                  "localizedDescription": "BAAA!",
+                  "downloadURL": "https://files.studyo.co/61db20d26e4b1300014afc6c/61db20d26e4b1300014afc6d/7fcf9037-82ff-469a-9fa2-3f2e087492d2/Goat-Simulator-v1.9.7.ipa",
+                  "size": 438409626,
+                  "minOSVersion": "11.0",
+                  "maxOSVersion": "18.0"
+                }
+              ],
+            "appPermissions": {}
+        }
+    ],
+    "news": []
+  }
