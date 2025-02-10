@@ -29,7 +29,7 @@
                 }
               ],
             "appPermissions": {}
-        }
+        },
         {
             "name": "Monument Valley",
             "bundleIdentifier": "com.ustwo.monumentvalley",
