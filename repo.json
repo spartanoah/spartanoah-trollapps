@@ -13,9 +13,9 @@
             "bundleIdentifier": "com.coffeestainstudios.goatsimulator",
             "developerName": "Coffee Stain Studios",
             "localizedDescription": "Goat Simulator is the latest in goat simulation technology, bringing next-gen goat simulation to YOU. You no longer have to fantasize about being a goat, your mobile dreams have finally come true!",
-            "iconURL": "https://raw.githubusercontent.com/spartanoah/spartanoah-trollapps/refs/heads/main/goatsimulator.png",
+            "iconURL": "https://raw.githubusercontent.com/spartanoah/spartanoah-trollapps/refs/heads/main/apps/Goat-Simulator/icon.png",
             "screenshotURLs": [
-                "https://raw.githubusercontent.com/spartanoah/spartanoah-trollapps/refs/heads/main/goatsimscreenshot.png"
+                "https://raw.githubusercontent.com/spartanoah/spartanoah-trollapps/refs/heads/main/apps/Goat-Simulator/screenshot.png"
             ],
             "versions": [
                 {
